@@ -22,3 +22,10 @@ This schema includes the following tables:
 2. Use the SQL file to create the `emr` schema:
    - `File > Open SQL Script` → choose `ehr_schema.sql`
    - Click **Execute**
+
+
+## 📄 Project Documentation
+
+Download detailed documentation for the EMR Schema, including table structures, relationships, and use cases:
+
+👉 [documentation.docx](./documentation.docx)
